@@ -5,10 +5,9 @@ A lightweight script to automatically answer trivia questions to earn free money
 Open Source & Transparency: The entire source code is publicly available for inspection. Feel free to review the files and verify exactly what the script does before running it. No need to take my word for it — you're welcome to audit the code yourself.
 
 ## Made by leaftify
-
-contacts
+contact for business purposes
 discord: @leaftify.dev
-email: phoebychubi@gmail.com
+gmail: phoebychubi@gmail.com
 
 ## Installation
 
